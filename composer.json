@@ -3,6 +3,7 @@
     "description": "Enable autocomplete for admin login",
     "type": "magento2-module",
     "license": "MIT",
+    "minimum-stability": "dev",
     "authors": [
         {
             "name": "Mykhailo Shatilov",
